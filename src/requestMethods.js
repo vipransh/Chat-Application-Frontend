@@ -3,7 +3,8 @@ import axios from "axios";
 
 
 // base url
-const BASE_URL="http://127.0.0.1:5000/api/v1/"
+// const BASE_URL="http://127.0.0.1:5000/api/v1/"
+const BASE_URL="http://3.110.132.39:5000/api/v1/"
 
 // const userInfo=JSON.parse(localStorage.getItem("userInfo"));
 

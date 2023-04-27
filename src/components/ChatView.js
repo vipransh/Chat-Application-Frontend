@@ -7,7 +7,7 @@ import ProfileModel from './ProfileModel'
 import io from "socket.io-client"
 import ManageGroup from './ManageGroup'
 
-const ENDPOINT="http://localhost:5000"
+const ENDPOINT="http://3.110.132.39:5000"
 let socket, selectedChatCompare;
 
 function ChatView() {
