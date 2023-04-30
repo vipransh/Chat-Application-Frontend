@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Realtime Messaging Application
+
+## Backend repo link
+click here [https://github.com/vipransh/Chat-Application-Backend](https://github.com/vipransh/Chat-Application-Backend)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
