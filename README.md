@@ -1,5 +1,9 @@
 # Real-Time Messaging Application
 
+
+https://github.com/vipransh/Chat-Application-Frontend/assets/30025222/a327a651-c048-4454-8c4f-56b54e71e18a
+
+
 This is a real-time messaging application built with React, Express, Node.js, and Tailwind CSS. It utilizes the React Context API for state management and integrates with Cloudinary for image uploads. The application provides the following features:
 
 1. Autocomplete/Typeahead Suggestions for Search: The search functionality includes optimized API calls using debouncing methods for better performance.
